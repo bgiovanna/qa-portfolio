@@ -19,3 +19,12 @@ Login page available.
 
 Exit Criteria:
 All critical defects resolved.
+
+Test Environment:
+Browser: Chrome
+OS: Windows 11
+Testing Type: Manual testing
+
+Risks:
+Possible issues with login authentication API
+Browser compatibility issues
